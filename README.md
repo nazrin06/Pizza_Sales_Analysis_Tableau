@@ -17,7 +17,7 @@ This project provides a comprehensive analysis of a year's worth of pizza sales 
 *   **Documentation:** GitHub
 
 ## 📂 Project Structure
-*   `/SQL_Queries`: Contains the `.sql` scripts used to calculate KPIs (Total Revenue, Average Order Value, etc.).
+*   `/pizza_queries.sql`: Contains the `.sql` scripts used to calculate KPIs (Total Revenue, Average Order Value, etc.).
 *   `https://github.com/nazrin06/Pizza_Sales_Analysis_Tableau/edit/main/README.md#:~:text=pizzaplace.csv,Breadcrumbs`: The raw CSV dataset used for the project.
 
 ## 📈 Visualizations
